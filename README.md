@@ -7,6 +7,7 @@ A empresa utiliza um serviço de pagamento online para realizar o pagamento das 
 Os serviços de pagamento online tipicamente cobram um juro mensal, bem como uma taxa
 por pagamento. Por enquanto, o serviço contratado pela empresa é o do Paypal, que aplica
 juros simples de 1% a cada parcela, mais uma taxa de pagamento de 2%.
+
 Fazer um programa para ler os dados de um contrato (número do contrato, data do contrato,
 e valor total do contrato). Em seguida, o programa deve ler o número de meses para
 parcelamento do contrato, e daí gerar os registros de parcelas a serem pagas (data e valor),
